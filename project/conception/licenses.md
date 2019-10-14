@@ -4,3 +4,4 @@
 [OS top licenses explained](https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-explained)
 [GDPR documents](https://github.com/good-lly/gdpr-documents)
 [about open source licenses](https://opensource.org/licenses)
+[Licence graph](https://charliewangblog.wordpress.com/2017/09/24/differences-between-gpl-lgpl-mpl-bsd-apache-and-mit-open-source-licenses/)
